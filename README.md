@@ -2,21 +2,19 @@
 
 ## Setup Environment
 
-Install pip
-sudo apt-get install python-pip
-
-Install all pre-requisites
-pip install -r requirements.txt --no-index
-
-Install git
-sudo apt-get install git
+* Install pip
+    * sudo apt-get install python-pip
+* Install django 
+    * sudo pip install django=1.4
+* Install git
+    * sudo apt-get install git
 
 ## Setup Application
 
-Checkout AddressBook from github
-git clone https://github.com/osg9c1/AddressBook.git
-cd AddressBook
-python contact_app/main.py
+* Checkout AddressBook from github
+    * git clone https://github.com/osg9c1/AddressBook.git
+    * cd AddressBook
+    * python contact_app/main.py
 
 ## Heroku Link:
 https://safe-wave-19815.herokuapp.com/
