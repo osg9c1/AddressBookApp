@@ -1,4 +1,4 @@
-# AddressBook
+# AddressBookApp
 
 ## Setup Environment
 
@@ -13,7 +13,8 @@
 
 * Checkout AddressBook from github
     * git clone https://github.com/osg9c1/AddressBook.git
-    * cd AddressBook
+* Run the App    
+    * cd AddressBookApp
     * python contact_app/main.py
 
 ## Heroku Link:
